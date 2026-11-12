@@ -1,6 +1,6 @@
 {
-  "name": "Chronos Pomodoro",
-  "short_name": "Chronos",
+  "name": "Pokédoro",
+  "short_name": "Pokédoro",
   "lang": "pt-BR",
   "icons": [
     {
@@ -28,6 +28,6 @@
   "orientation": "portrait",
   "start_url": "/",
   "scope": "/",
-  "description": "Gerencie seus ciclos de Pomodoro com o Chronos Pomodoro. Timer completo, personalizável e moderno para produtividade máxima.",
+  "description": "Gerencie seus ciclos de Pomodoro e evolua seu Pokémon no Pokédoro. Timer completo, personalizável e moderno para produtividade máxima.",
   "id": "/"
 }
